@@ -1,4 +1,4 @@
-# Computer Institute Analysis Performance Dashboard (Power BI)
+# Computer Institute Business Analysis Performance(Power BI)
 
 ## 📊 Project Overview
 This Power BI dashboard analyzes the performance of a computer training institute.
